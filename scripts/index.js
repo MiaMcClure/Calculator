@@ -1,7 +1,7 @@
 "use strict"
 // connect window onload event to an init function
 window.onload = init;
-// //put button ids in an array
+//put button ids in an array
 let buttonIds = ['add', 'subtract', 'multiply', 'divide'];
 // add init event handler and assign each button's onclick to an event using buttonIds array
 function init() {
